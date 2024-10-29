@@ -9,6 +9,6 @@ network_data.kml
 psycopg2-binary
 
 ## Steps Involved
-1. '''create database iit_bombay;'''
+1. `create database iit_bombay;`
 2. \c iit_bombay
 3. create schema campus;
